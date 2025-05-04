@@ -21,5 +21,6 @@ class Harshad{
         }else{
             System.out.println("not Harshad");
         }
+        scanner.close();
     }
 }
