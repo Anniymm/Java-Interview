@@ -21,5 +21,6 @@ public class Fibonacci {
                 secondNum = nextNum;
             }
         }
+        scanner.close();
     }
 }
