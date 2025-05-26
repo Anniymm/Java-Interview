@@ -26,5 +26,38 @@ The **Fibonacci Sequence** is a series of numbers where each number is the **sum
 
 # ____________________________________________________________________________
 
-#  3️⃣ 
+#  3️⃣ Swap Two Numbers Without Temp Variable (Java)
+
+Swapping two numbers **without using a third variable** 
+
+## 📘 Concept
+Swap two integers without using a temporary variable by using either:
+
+- **Arithmetic Operations** (`+` and `-`)
+- **Bitwise XOR Operator**
+
+# ____________________________________________________________________________
+
+#  4️⃣ sum of two diagonals of the matrix
+
+Given a square matrix mat of size n x n. Task is to calculate the sum of two diagonals of the matrix
+
+## 📘 Definition
+For a matrix `mat`: 
+
+1 2 3
+4 5 6
+7 8 9
+
+- **Primary Diagonal elements:** 1, 5, 9  
+- **Secondary Diagonal elements (excluding primary):** 3, 5, 7  
+
+The sum of the primary and secondary diagonals in this example would be:  
+`1 + 5 + 9 + 3 + 7 = 25`
+
+# ____________________________________________________________________________
+
+
+
+
 
