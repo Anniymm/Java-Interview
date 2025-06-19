@@ -1,14 +1,3 @@
-// Create a method isValidEmail(String email) that returns true if the email is valid according to the rules, and false otherwise.
-// Validation Steps in the Method:
-// Check if the email contains exactly one '@'.
-// Ensure there are characters before and after the '@'.
-// Verify there is at least one '.' after the '@'.
-// Check that the '.' is not the first or last character after the '@'.
-// Ensure there are no spaces in the email.
-
-// Output:
-// Print whether the entered email is valid or not.
-
 import java.util.Scanner;
 
 public class ValidateEmail {
