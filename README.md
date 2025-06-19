@@ -57,6 +57,19 @@ The sum of the primary and secondary diagonals in this example would be:
 
 # ____________________________________________________________________________
 
+#  5️⃣ Email Validator 
+
+ Method isValidEmail(String email) that returns true if the email is valid according to the rules, and false otherwise.
+
+## 📘 Concept
+Validation Steps in the Method:
+-  Check if the email contains exactly one '@'.
+-  Ensure there are characters before and after the '@'.
+-  Verify there is at least one '.' after the '@'.
+-  Check that the '.' is not the first or last character after the '@'.
+-  Ensure there are no spaces in the email.
+-  Print whether the entered email is valid or not.
+
 
 
 
