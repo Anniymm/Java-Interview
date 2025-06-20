@@ -70,7 +70,19 @@ Validation Steps in the Method:
 -  Ensure there are no spaces in the email.
 -  Print whether the entered email is valid or not.
 
+# ____________________________________________________________________________
 
+#  6️⃣ Lottery System
 
+Java method that simulates a lottery system. You are given a list of participant names. Randomly select k unique winners from this list. Ensure each participant can only win once.
 
+## 📘 Definition
+- Use java.util.Random
+- Handle edge cases (e.g., k > participants.size()).
+- Code must return the list of winners in random order.
+
+## 📘 Output Example
+Winners: [Eva, Charlie, Bob]  // (Random each time)
+
+# ____________________________________________________________________________
 
